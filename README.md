@@ -4,28 +4,25 @@ A **3D Renderer** I created using **C & SLD** for my **CISC 3620 Computer Graphi
 * Ensure you have all available imports installed before trying to compile.
 
 ## Demos
-### Existing
-<img src="./demos/existing_demo.gif" width=35%> 
+### Existing 'main.c'
+<img src="./demos/existing_demo.gif" width=35%>
 
-### Midterm
-<img src="./demos/midterm.gif" width=50%>
-
-### Old Cube
-<img src="./demos/oldcube_demo.gif" width=35%>
-    
-## Existing 'main.c'
 * **Backface Culling:** Determining which faces of the cube are not visible to the camera and skipping their rendering to improve performance.
 * **Complex Shapes:** Rendering more complex shapes or multiple objects using Triangles  and lines instead of points.
 * **Lighting and Shading:** Implementing basic lighting models to add realism.
 * **Optimization Techniques:** Implementing optimizations for better performance.
 
-## Midterm
+### Midterm
+<img src="./demos/midterm.gif" width=50%>
+
 * **Timed Animation:** This animation is timed based on the song **[Gunna - Blackjack](https://www.youtube.com/watch?v=NqDljLQzzqg)**
 * **Complex Shapes:** Rendering more complex shapes or multiple objects.
 * **Lighting and Shading:** Implementing basic lighting models to add realism.
 * **Optimization Techniques:** Implementing optimizations for better performance.
 
-## Old Cube
+### Old Cube
+<img src="./demos/oldcube_demo.gif" width=35%>
+
 * **Vertex Definitions:** Defining the vertices of the cube.
 * **Transformation Matrices:** Applying transformations like translation, rotation, and scaling to animate the cube.
 * **Backface Culling:** Determining which faces of the cube are not visible to the camera and skipping their rendering to improve performance.
