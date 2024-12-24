@@ -1,6 +1,6 @@
 # 3D Renderer
 
-A **3D Renderer** I created using **C & SLD** for my **CISC 3620 Computer Graphics** course! 
+A **3D Renderer** I created using **C & SDL** for my **CISC 3620 Computer Graphics** course! 
 * Ensure you have all available imports installed before trying to compile.
 
 ## Demos
